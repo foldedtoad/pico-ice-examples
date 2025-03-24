@@ -1,0 +1,6 @@
+
+A simple example using the Pico-Ice board.
+
+Each of the three images blinks another LED.   
+After 7 blinks the next image is loaded automatically.
+
