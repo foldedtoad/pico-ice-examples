@@ -1,6 +1,6 @@
+A simple example using the Pico-Ice board
 
-A simple example using the Pico-Ice board.
-
-Each of the three images blinks another LED.   
-After 7 blinks the next image is loaded automatically.
-
+This example shows how to use icemulti to create firmware with up to four images.
+Each of the four images blinks another LED: Blue, Green, Red, B+G+R 
+Each image blinks 7 times, the dynamically boots to the next image.
+The four images continuously rotate in this manner.
