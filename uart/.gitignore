@@ -1,4 +1,5 @@
 *.bin
 *.asc
 *.json
+*.log
 *.uf2
